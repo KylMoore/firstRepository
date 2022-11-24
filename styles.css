@@ -11,3 +11,8 @@ header {
     color: white;
     min-height: 30vh;
 }
+
+
+section {
+    margin: 40px;
+}
